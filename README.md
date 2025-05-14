@@ -1,13 +1,13 @@
 # Claude 3.7 Sonnet 国内使用指南~  Claude镜像网站（无需翻墙）【2025年5月更新】
 
-> **更新时间：2025-05-14**      
+> **更新时间：2025-05-15**      
 
 全面体验 [**Claude 3.7 Sonnet**](https://chat.lanjing.pro)，**国内直连，无需翻墙**，**支持 Claude 3.7 Sonnet 及中文版功能**   
 
-本指南提供全面的 **Claude 国内使用指南**，包括国内可用的 [**Claude 官网入口**](https://chat.lanjing.pro)、[**Claude 镜像网站**](https://chat.xsimple.top)、[**Claude 中文版**](https://chat.lanjing.pro) 和详细的使用教程，助您快速上手 Claude~
+本指南提供全面的 **Claude 国内使用指南**，包括国内可用的 [**Claude 官网入口**](https://chat.lanjing.pro)、[**Claude 镜像网站**](https://xsimplechat.com)、[**Claude 中文版**](https://chat.lanjing.pro) 和详细的使用教程，助您快速上手 Claude~
 
 **Claude 3.7 Sonnet 官网国内入口：[https://chat.lanjing.pro](https://chat.lanjing.pro)**   
-**Claude 3.7 Sonnet 镜像网站：[https://chat.yixiaai.com](https://chat.xsimple.top)**
+**Claude 3.7 Sonnet 镜像网站：[https://chat.yixiaai.com](https://xsimplechat.com)**
 
 ---
 
@@ -26,7 +26,7 @@
 
 - [chat.yixiaai.com](https://chat.yixiaai.com/) - **Claude 3.7 Sonnet 中文版**，支持 claude-3.7-sonnet、GPT-o1、o3 及 Groq-3，支持 AI 绘画，扫码即可使用。
 - [chat.lanjing.pro](https://chat.lanjing.pro/) - **Claude 3.7 Sonnet 中文站**，支持 claude 3.7 sonnet、Grok 3、GPT-4o、o1、o3 及 DeepSeek R1 最先进的模型，无限使用~
-- [chat.lify.vip](https://chat.xsimple.top/) - **Claude 3.7 Sonnet 镜像网站**，支持 claude-3.7、claude-3.5、GPT-o1、o3 及 Groq-3，提供 AI 文件、AI PPT、AI 助手、AI 插件功能和思维导图。
+- [chat.lify.vip](https://xsimplechat.com/) - **Claude 3.7 Sonnet 镜像网站**，支持 claude-3.7、claude-3.5、GPT-o1、o3 及 Groq-3，提供 AI 文件、AI PPT、AI 助手、AI 插件功能和思维导图。
 - [yixiaai.cn](https://yixiaai.cn/) - **ChatGPT 镜像网站**，支持 GPT-4、4o，支持 AI 绘画（Midjourney 和 Dall·E）。
 - [ai.lansejingyu.com](https://ai.lansejingyu.com/) - **ChatGPT-4 镜像网站**，支持 GPT-4、4o，使用简单便捷。
 - [chat.chatgpt-chinese.com](https://chat.chatgpt-chinese.com/) - **免费 ChatGPT**，支持 GPT-4、4o 和 MJ 绘画。

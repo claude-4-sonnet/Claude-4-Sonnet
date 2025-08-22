@@ -1,6 +1,6 @@
 # Claude 4 Sonnet 国内使用指南~  Claude镜像网站（无需翻墙）【2025年8月更新】
 
-> **更新时间：2025-08-22**                   
+> **更新时间：2025-08-23**                   
 
 全面体验 [**Claude 4 Sonnet**](https://chat.lanjingai.org)，**国内直连，无需翻墙**，**支持 Claude 4 Sonnet 及中文版功能**   
 
